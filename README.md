@@ -32,7 +32,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs,spring" />
+    <img src="https://skillicons.dev/icons?i=java,kotlin,nodejs,spring" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 - Database
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis,sqlite" />
   </a>
 </p>
 
